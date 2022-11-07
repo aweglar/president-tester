@@ -1,6 +1,6 @@
 import requests
 
-# list of presidents to test against
+# set of presidents to test against
 PRESIDENTS = {'Washington', 'Adams', 'Jefferson', 'Madison', 'Monroe', 'Jackson', 'Buren', 'Harrison',
     'Tyler', 'Polk', 'Taylor', 'Fillmore', 'Pierce', 'Buchanan', 'Lincoln', 'Johnson', 'Grant', 'Hayes',
     'Garfield', 'Arthur', 'Cleveland', 'Harrison', 'McKinley', 'Roosevelt', 'Taft', 'Wilson', 'Harding',
